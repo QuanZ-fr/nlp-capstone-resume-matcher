@@ -9,7 +9,7 @@ NLP capstone project. A job seeker pastes a resume or uploads a PDF and gets:
 
 **Users:** students and junior candidates who want to know which offers fit their resume and what to learn next.
 
-**Team:** Zhongjie Wu, Zhou Quan
+**Team:** Zhongjie Wu, Zhou Quan, Habib
 
 ## Data
 
@@ -85,3 +85,4 @@ The first launch of the app trains the classifier (about a minute) and caches it
 |--------|------|
 | Zhongjie Wu | |
 | Zhou Quan | |
+| Habib | |
